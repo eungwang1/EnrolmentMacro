@@ -1,2 +1,8 @@
 # -EnrolmentMacro
-수강신청매크로
+
+
+## Puppeteer
+
+Puppeteer를 활용한 수강신청 매크로
+
+
